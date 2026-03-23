@@ -108,12 +108,6 @@ Used DAX to create:
 
 ---
 
-## 📷 Dashboard Preview
-
-(Add your screenshot here)
-
----
-
 ## 🚀 How to Use
 - Download the .pbix file
 - Open in Power BI Desktop
@@ -129,7 +123,14 @@ This dashboard demonstrates how raw retail data can be transformed into meaningf
 - Identify growth opportunities
 - Make data-driven decisions
 
-  ---
+---
+
+## 📷 Dashboard Preview
+
+
+![Add your screenshot here](https://github.com/prakharpatil01/-Blinkit-Sales-Dashboard-Power-BI-/blob/master/Dashboard%20Preview.png)
+
+---
   
 ## 🤝 Connect With Me
 If you liked this project or have feedback, feel free to connect!
